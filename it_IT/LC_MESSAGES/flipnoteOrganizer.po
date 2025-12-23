@@ -4,183 +4,183 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "ABOUT"
-msgstr "About"
+msgstr "A proposito"
 
 # Keep ALL_FLIPNOTES_FOLDER under 7 characters.
 msgid "ALL_FLIPNOTES_FOLDER"
-msgstr "All"
+msgstr "Tutti"
 
 msgid "BUTTON_ALL_SETTINGS"
-msgstr "View All Settings"
+msgstr "Visualizza tutte le Impostazioni"
 
 msgid "BUTTON_BACK"
-msgstr "Back"
+msgstr "Indietro"
 
 msgid "BUTTON_CLOSE_PLAYER"
-msgstr "Close Player"
+msgstr "Chiudi Player"
 
 msgid "BUTTON_CLOSE_SETTINGS"
-msgstr "Close Settings"
+msgstr "Chiudi Impostazioni"
 
 msgid "BUTTON_DIGITAL_SHIFT"
 msgstr "Shift"
 
 msgid "BUTTON_TO_TOP"
-msgstr "Top"
+msgstr "Inizio"
 
 msgid "CREDITS"
-msgstr "Credits"
+msgstr "Riconoscimenti"
 
 msgid "CREDITS_CREATOR"
-msgstr "Created by King Mayro"
+msgstr "Creato da Re Mayro"
 
 msgid "CREDITS_SPECIAL_THANKS"
-msgstr "Special Thanks"
+msgstr "Ringraziamenti Speciali"
 
 msgid "DONT_SHOW_NOTICE_AGAIN"
-msgstr "Please don't show this again"
+msgstr "Per favore, non mostrarlo più"
 
 msgid "DUPLICATES"
-msgstr "Duplicates"
+msgstr "Duplicati"
 
 msgid "DUPLICATE_INSIDE_FOLDER"
-msgstr "Inside:"
+msgstr "All'interno di:"
 
 msgid "FLIPNOTE"
 msgstr "Flipnote"
 
 msgid "FLIPNOTE_AMOUNT"
-msgstr "Flipnotes"
+msgstr "Flipnote"
 
 msgid "FLIPNOTE_DETAILS_AUTHOR"
-msgstr "Creator:"
+msgstr "Creatore:"
 
 msgid "FLIPNOTE_ORGANIZER"
-msgstr "Flipnote Organizer"
+msgstr "Contenitore di Flipnote"
 
 msgid "FLIPNOTE_ORGANIZER_SECONDARY_TAGLINE"
-msgstr "Sort, view, search, and watch your downloaded Flipnotes!"
+msgstr "Ordina, visualizza, cerca, e guarda i tuoi Flipnote scaricati!"
 
 msgid "FLIPNOTE_ORGANIZER_TAGLINE"
-msgstr "Keep your Flipnotes and folders nice and tidy with the Flipnote Organizer!"
+msgstr "Tieni i tuoi Flipnote e le tue cartelle belli e puliti con il Contenitore di Flipnote!"
 
 # Treat these as if they have a number attatched.
 msgid "FOLDER"
-msgstr "folder"
+msgstr "cartella"
 
 msgid "FOLDER_AMOUNT"
-msgstr "folders"
+msgstr "cartelle"
 
 msgid "FOLDER_NOTE"
-msgstr "You can find your Flipnote folder at %s"
+msgstr "Puoi trovare la cartella con i Flipnote a %s"
 
 msgid "FOLDER_NOTE_DONT_WORRY"
-msgstr "Your Flipnotes are not uploaded or stored; they are loaded locally."
+msgstr "I tuoi Flipnote non sono pubblicati o memorizzati; sono caricati in locale."
 
 msgid "FOLDER_NOTE_WIIMOTE_CANT_SELECT"
-msgstr "A mouse must be used to select your Flipnote folder due to browser permissions."
+msgstr "Deve essere utilizzato un mouse per selezionare la tua cartella di Flipnote a causa dei permessi del browser."
 
 msgid "FOLDER_SELECTOR"
-msgstr "Click or drag and drop a folder in here!"
+msgstr "Clicca o trascina e rilascia una cartella qui!"
 
 msgid "FOLDER_SELECTOR_NO_DRAG"
-msgstr "Click here to load a folder!!!"
+msgstr "Clicca qui per caricare una cartella!!!"
 
 msgid "HOW_TO_USE"
-msgstr "How to Use"
+msgstr "Come Usare"
 
 msgid "IMPORTANT"
-msgstr "Important:"
+msgstr "Importante:"
 
 msgid "JAVASCRIPT_NEEDED"
-msgstr "The Flipnote Organizer requires Javascript to run."
+msgstr "Il Contenitore di Flipnote richiede Javascript abilitato."
 
 msgid "JAVASCRIPT_PLEAE_ENABLE"
-msgstr "Please enable Javascript within your browsers settings."
+msgstr "Per favore, abilita Javascript all'interno delle impostazioni del tuo browser."
 
 msgid "LINKS"
-msgstr "Links"
+msgstr "Link"
 
 msgid "LISTING_ALL_FLIPNOTES"
-msgstr "All Flipnotes"
+msgstr "Tutti i Flipnote"
 
 msgid "LISTING_NO_SEARCH_RESULTS"
-msgstr "No Results..."
+msgstr "Nessun Risultato..."
 
 msgid "LISTING_SEARCH_RESULTS"
-msgstr "Search Results"
+msgstr "Risultati della ricerca"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "Prossimo"
 
 msgid "NO"
 msgstr "No"
 
 msgid "NO_THANKS"
-msgstr "No thanks"
+msgstr "No grazie"
 
 msgid "OK"
 msgstr "OK"
 
 msgid "PREV"
-msgstr "Prev"
+msgstr "Prec"
 
 msgid "PREVIOUS"
-msgstr "Previous"
+msgstr "Precedente"
 
 msgid "SEARCH"
-msgstr "Search"
+msgstr "Cerca"
 
 msgid "SEARCH_FILTERS"
-msgstr "Search Filters"
+msgstr "Filtri di Ricerca"
 
 msgid "SEARCH_FILTER_LOCKED"
-msgstr "Locked"
+msgstr "Bloccato"
 
 msgid "SEARCH_FILTER_LOCKED_OPTION_UNLOCKED"
-msgstr "Unlocked"
+msgstr "Sbloccato"
 
 msgid "SEARCH_FILTER_OPTION_ANY"
-msgstr "Any"
+msgstr "Qualunque"
 
 msgid "SEARCH_FILTER_SPINOFF"
 msgstr "Spinoff"
 
 msgid "SEARCH_PLACEHOLDER"
-msgstr "Enter a Creator, FSID, or use filters"
+msgstr "Inserisci un Creatore, FSID, o usa i filtri"
 
 msgid "SEARCH_RESULTS_FOLDER"
-msgstr "Results"
+msgstr "Risultati"
 
 msgid "SEARCH_TITLE"
-msgstr "Search Flipnotes"
+msgstr "Cerca Flipnote"
 
 msgid "SEARCH_WAITING"
-msgstr "Indexing Flipnotes, this may take some time depending on how many Flipnotes you have..."
+msgstr "Indicizzando i Flipnote, questo può impiegare un po' di tempo in base a quanti Flipnote hai..."
 
 msgid "SELECT_HERE"
-msgstr "Select here!"
+msgstr "Seleziona qui!"
 
 msgid "SETTINGS_CLASSIC_SOUNDS"
-msgstr "Classic Button Sounds"
+msgstr "Suoni Classici dei Pulsanti"
 
 msgid "SETTINGS_CLASSIC_SOUNDS_DESCRIPTION"
-msgstr "When enabled, the original Flipnote Studio sounds are used instead of the Flipnote Organizer versions."
+msgstr "Quando abilitati, i suoni originali di Flipnote Studio vengono usati invece dei suoni del Contenitore di Flipnote."
 
 msgid "SETTINGS_CLEAR_FLIPNOTE_CACHE"
-msgstr "Clear Flipnote Cache"
+msgstr "Pulisci la Cache dei Flipnote"
 
 msgid "SETTINGS_FLIPNOTE_DETAILS_DIGITAL_SHIFT"
-msgstr "Digital Shift Button"
+msgstr "Pulsante Shift Digitale"
 
 msgid "SETTINGS_FLIPNOTE_DETAILS_DIGITAL_SHIFT_DESCRIPTION"
-msgstr "For when the shift key is unavailable, or when it is preferable to have an auto-hold on shift. This cannot be used if Gallery View is enabled."
+msgstr "Per quando il pulsante Shift non è disponibile, o quando è preferibile mantenere automaticamente Shift. Questo non può essere usato se la Vista Galleria è abilitata."
 
 msgid "SETTINGS_FLIPNOTE_DETAILS_SHIFT"
-msgstr "Shift for More Flipnote Details"
+msgstr "Premi Shift per ulteriori Dettagli sul Flipnote"
 
 msgid "SETTINGS_FLIPNOTE_DETAILS_SHIFT_DESCRIPTION"
-msgstr "When holding shift or using the Digital Shift, extra details about Flipnotes will be displayed. It is recommended to keep this on. This cannot be used if Gallery View is enabled."
+msgstr "Quando tieni premuto shift o mentre usi lo Shift Digitale, maggiori dettagli sui Flipnote saranno visualizzati. E' consigliabile tenere ciò attivato. Questo non può essere usato se la Vista Galleria è abilitata."
 
 msgid "SETTINGS_FLIPNOTE_PLAYER_VOLUME"
 msgstr "Flipnote Player Volume"

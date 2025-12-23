@@ -37,7 +37,7 @@ msgid "FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote per %s"
 
 msgid "IN_REPLY_TO"
-msgstr "In reply to"
+msgstr "In risposta a"
 
 msgid "MESSAGE_DETAILS"
 msgstr "Dettagli del messaggio"
